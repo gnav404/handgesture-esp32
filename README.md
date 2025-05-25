@@ -1,1 +1,2 @@
-mercangan dan mengimplementasikan sistem pengenalan gerakan tangan berbasis ESP32 dan MPU6050, yang mampu mengontrol perpindahan slide di Microsoft PowerPoint secara bebas. Harapannya, sistem ini tidak hanya meningkatkan kenyamanan dan fleksibilitas narasumber, tetap juga membuka jalan bagi inovasi interaksi manusia-komputer yang lebih intuitif dan efisien di masa depan.
+Mercangan dan mengimplementasikan sistem pengenalan gerakan tangan berbasis ESP32 dan MPU6050, yang mampu mengontrol perpindahan slide di Microsoft PowerPoint secara bebas.
+Harapannya, sistem ini tidak hanya meningkatkan kenyamanan dan fleksibilitas narasumber, tetap juga membuka jalan bagi inovasi interaksi manusia-komputer yang lebih intuitif dan efisien di masa depan.
